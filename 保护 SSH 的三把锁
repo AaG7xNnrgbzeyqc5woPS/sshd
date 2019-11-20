@@ -1,5 +1,7 @@
 https://www.ibm.com/developerworks/cn/aix/library/au-sshlocks/index.html#list7
 保护 SSH 的三把锁
+--------------------
+总结：非常优秀的文章，特别是 knockd 方法，重点！原文链接排版更好，这里是一个备份
 
 简介
 
